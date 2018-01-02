@@ -7,7 +7,7 @@
       "$": true,
       "marked": true,
       "hljs": true,
-      "listView": true,
+      "mapView": true,
       "User": true
     },
     "extends": "eslint:recommended",
